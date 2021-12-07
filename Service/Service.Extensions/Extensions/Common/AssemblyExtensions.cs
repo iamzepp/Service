@@ -1,6 +1,6 @@
 ﻿namespace Service.Extensions.Extensions.Common
 {
-    public class AssemblyExtensions
+    public static class AssemblyExtensions
     {
         
     }
